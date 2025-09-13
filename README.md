@@ -35,7 +35,7 @@ print(f"Variance is : {var}")
 ```
 # Calculation:
 
-![Huffmann ](https://github.com/user-attachments/assets/cb700a91-f57f-4f5d-9f2f-4ca017ed1976)
+![Huffmann ](https://github.com/user-attachments/assets/aa747ae6-26fe-4390-9b70-df0d8e43d4ad)
 
 # Output
 <img width="321" height="101" alt="image" src="https://github.com/user-attachments/assets/6a3f4cd3-1d4a-4f62-881a-fb9060542b2a" />

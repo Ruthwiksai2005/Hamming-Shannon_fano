@@ -34,14 +34,9 @@ print(f"Redundancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # Calculation:
-```
 ![Huffmann ](https://github.com/user-attachments/assets/4a471088-a5e0-45d2-bf01-e1c1262ebc96)
-
-```
 # Output
-```
 <img width="321" height="101" alt="image" src="https://github.com/user-attachments/assets/6a3f4cd3-1d4a-4f62-881a-fb9060542b2a" />
-``` 
 # Results:
 ```
 Thus,the average code word length, entropy, variance, redundancy, and efficiency was calculated and verified with observed values.
